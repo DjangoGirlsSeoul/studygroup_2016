@@ -8,4 +8,5 @@
 예시) `장고걸스(DjangoGirls) : https://github.com/DjangoGirlsSeoul/`
 
 * 이수진(Sujin Lee) : https://github.com/sujinleeme
+* 조한주(Hanju Jo) : https://github.com/AWEEKJ
 * 
