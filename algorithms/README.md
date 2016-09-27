@@ -4,26 +4,27 @@ Join [slack](https://djangogirlsseoul.slack.com) channel #algorithms_studygroup
 
 ## Topics
 
-###Algorithms
+### Algorithms
 
  1. Sort
-		a. Quick Sort
- 		b. Merge Sort
-		c. Insertion Sort
-		d. Heap Sort
+	- Quick Sort
+	- Merge Sort
+	- Insertion Sort
+	- Heap Sort
  2. Binary Search Tree (BST)
-    a. BST Class
-    b. Height of the Tree
+	- BST Class
+	- Height of the Tree
  3. Graph
-		a. Breadth First Search (BFS)
-		b. Depth First Search (DFS)
+	- Breadth First Search (BFS)
+	- Depth First Search (DFS)
  4. Minimum Spanning Tree (MST)
-		a. Prim
-		b. Kruskal
+	- Prim
+	- Kruskal
  5. Shortest Path
-		a. Dijkstra
-		b. Floyd Warshall 
+	- Dijkstra
+	- Floyd Warshall
  6. Dynamic Programming
+ 7. ?
 
 ### Machine Learning
 
@@ -39,8 +40,6 @@ Join [slack](https://djangogirlsseoul.slack.com) channel #algorithms_studygroup
 
  1. ?
 
-Resources & Books
+## Resources & Books
 
-*[MIT Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithmsㅓ-sma-5503-fall-2005/)
-
-
+* [MIT Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithmsㅓ-sma-5503-fall-2005/)
