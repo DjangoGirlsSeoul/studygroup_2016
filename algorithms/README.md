@@ -6,19 +6,25 @@ Join [slack](https://djangogirlsseoul.slack.com) channel #algorithms_studygroup
 
 ###Algorithms
 
- 1. Quick Sort
- 2. Merge Sort
- 3. Binary Search Tree (BST)
+ 1. Sort
+		a. Quick Sort
+ 		b. Merge Sort
+		c. Insertion Sort
+		d. Heap Sort
+ 2. Binary Search Tree (BST)
     a. BST Class
-    b. Breadth First Search
-    c. Depth First Search
-    d. Height of the Tree
- 4. Insertion Sort
- 5. Heap Sort
- 6. Graph
- 7. Shortest Path
- 8. ?
- 
+    b. Height of the Tree
+ 3. Graph
+		a. Breadth First Search (BFS)
+		b. Depth First Search (DFS)
+ 4. Minimum Spanning Tree (MST)
+		a. Prim
+		b. Kruskal
+ 5. Shortest Path
+		a. Dijkstra
+		b. Floyd Warshall 
+ 6. Dynamic Programming
+
 ### Machine Learning
 
  1. Deep learning (using Tensorflow)
