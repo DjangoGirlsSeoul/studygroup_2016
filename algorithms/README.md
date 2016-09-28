@@ -42,4 +42,4 @@ Join [slack](https://djangogirlsseoul.slack.com) channel #algorithms_studygroup
 
 ## Resources & Books
 
-* [MIT Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithmsㅓ-sma-5503-fall-2005/)
+* [MIT Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
