@@ -14,3 +14,4 @@
 * 하지윤(Jiyoon Ha) : https://github.com/punkyoon
 * 홍미선(Miseon Hong) : https://github.com/cosmosinu
 * 이미현(Mihyun Lee) : https://github.com/MilenaLee
+* 정재광(Jaekwang Jung) : https://github.com/Jae-kwang
