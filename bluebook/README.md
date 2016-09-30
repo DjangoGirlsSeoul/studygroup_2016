@@ -13,3 +13,4 @@
 * 유성(Sung Yu) : https://github.com/Hobbit-Klaus
 * 하지윤(Jiyoon Ha) : https://github.com/punkyoon
 * 홍미선(Miseon Hong) : https://github.com/cosmosinu
+* 이미현(Mihyun Lee) : https://github.com/MilenaLee
