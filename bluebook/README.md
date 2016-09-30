@@ -14,3 +14,4 @@
 * 하지윤(Jiyoon Ha) : https://github.com/punkyoon
 * 홍미선(Miseon Hong) : https://github.com/cosmosinu
 * 이미현(Mihyun Lee) : https://github.com/MilenaLee
+* 홍성남(Sungnam Hong): https://github.com/magneticrose
