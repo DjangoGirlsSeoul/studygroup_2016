@@ -11,7 +11,6 @@
 * 조한주(Hanju Jo) : https://github.com/AWEEKJ
 * Onur Sahil(오누르 사힐) : https://github.com/onursahil
 * 유성(Sung Yu) : https://github.com/Hobbit-Klaus
-* 홍미선(Miseon Hong) : https://github.com/cosmosinu
 * 하지윤(Jiyoon Ha) : https://github.com/punkyoon
 * 홍미선(Miseon Hong) : https://github.com/cosmosinu
 * 이미현(Mihyun Lee) : https://github.com/MilenaLee
