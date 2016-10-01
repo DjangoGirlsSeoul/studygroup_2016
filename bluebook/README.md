@@ -18,3 +18,4 @@
 * 양미림(Emily Yang) : http://github.com/dodut
 * 장준혁(Joonhyuk Jang)https://github.com/aesop2001
 * 김중현(Joonghyeon Kim) : https://github.com/karis0222
+* 정재광(Jaekwang Jung) : https://github.com/Jae-kwang
