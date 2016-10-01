@@ -17,3 +17,4 @@
 * 권예진(YeJin Kwon) : https://github.com/amykwon
 * 양미림(Emily Yang) : http://github.com/dodut
 * 장준혁(Joonhyuk Jang)https://github.com/aesop2001
+* 김중현(Joonghyeon Kim) : https://github.com/karis0222
