@@ -1,7 +1,7 @@
 # 소개
 
 ## 그룹장
-* 송다운(Downy Song) : https://github.com/downy158
+* 송다운(Daeun Song) : https://github.com/downy158
 
 ## 멤버
 아래 이름(영문이름)과 함께 Github 프로필 링크를 적어주세요
