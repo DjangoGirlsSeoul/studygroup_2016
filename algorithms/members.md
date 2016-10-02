@@ -1,5 +1,6 @@
 #Members
 
+* Jin Park
 * Onur Sahil
 * 권민재
 * 정진솔
