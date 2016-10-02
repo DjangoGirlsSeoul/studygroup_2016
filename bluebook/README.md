@@ -15,7 +15,6 @@
 * 홍미선(Miseon Hong) : https://github.com/cosmosinu
 * 이미현(Mihyun Lee) : https://github.com/MilenaLee
 * 권예진(YeJin Kwon) : https://github.com/amykwon
-* 양미림(Emily Yang) : http://github.com/dodut
 * Hassan : http://github.com/hassanabidpk
 * 장준혁(Joonhyuk Jang)https://github.com/aesop2001
 * 김중현(Joonghyeon Kim) : https://github.com/karis0222
