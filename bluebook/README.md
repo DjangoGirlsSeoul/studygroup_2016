@@ -21,3 +21,5 @@
 * 정재광(Jaekwang Jung) : https://github.com/Jae-kwang
 * 홍성남(Sungnam Hong): https://github.com/magneticrose
 * 하현주 (Olivia Ha) : https://github.com/oliviaha
+* 박수석(David Park) : https://github.com/chiyodad
+* 문명진(Myongjin Moon):https://github.com/skycool7
