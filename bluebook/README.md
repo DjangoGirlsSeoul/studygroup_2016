@@ -1,7 +1,7 @@
 # 소개
 
 ## 그룹장
-* 송다운(Downy Song) : https://github.com/downy158
+* 송다운(Downy Song) : https://github.com/downy158 / kongredbean@gmail.com
 
 ## 교재
 * 파이썬 웹 프로그래밍: Django(장고)로 배우는 쉽고 빠른 웹 개발 (한빛미디어)
@@ -13,7 +13,7 @@
 아래 이름(영문이름)과 함께 Github 프로필 링크, 이메일을 적어주세요.
 예시) `장고걸스(DjangoGirls) : https://github.com/DjangoGirlsSeoul/`
 
-* 이수진(Sujin Lee) : https://github.com/sujinleeme sujinlee.me@gmail.com
+* 이수진(Sujin Lee) : https://github.com/sujinleeme / sujinlee.me@gmail.com
 * 조한주(Hanju Jo) : https://github.com/AWEEKJ
 * Onur Sahil(오누르 사힐) : https://github.com/onursahil
 * 유성(Sung Yu) : https://github.com/Hobbit-Klaus
