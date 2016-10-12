@@ -3,11 +3,15 @@
 ## 그룹장
 * 송다운(Downy Song) : https://github.com/downy158
 
+
+## 참석 여부 
+주별로 issues에 댓글로 참석 여부를 표시합니다.
+
 ## 멤버
-아래 이름(영문이름)과 함께 Github 프로필 링크를 적어주세요
+아래 이름(영문이름)과 함께 Github 프로필 링크, 이메일을 적어주세요.
 예시) `장고걸스(DjangoGirls) : https://github.com/DjangoGirlsSeoul/`
 
-* 이수진(Sujin Lee) : https://github.com/sujinleeme
+* 이수진(Sujin Lee) : https://github.com/sujinleeme sujinlee.me@gmail.com
 * 조한주(Hanju Jo) : https://github.com/AWEEKJ
 * Onur Sahil(오누르 사힐) : https://github.com/onursahil
 * 유성(Sung Yu) : https://github.com/Hobbit-Klaus
