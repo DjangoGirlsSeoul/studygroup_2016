@@ -18,7 +18,7 @@
 * Onur Sahil(오누르 사힐) : https://github.com/onursahil / email: onursahilme@gmail.com
 * 유성(Sung Yu) : https://github.com/Hobbit-Klaus
 * 하지윤(Jiyoon Ha) : https://github.com/punkyoon
-* 홍미선(Miseon Hong) : https://github.com/cosmosinu
+* 홍미선(Miseon Hong) : https://github.com/cosmosinu / cosmosinu2016@gmail.com
 * 이미현(Mihyun Lee) : https://github.com/MilenaLee / leemihyun90@gmail.com
 * 권예진(YeJin Kwon) : https://github.com/amykwon
 * 양미림(Emily Yang) : http://github.com/dodut
