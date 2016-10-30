@@ -36,7 +36,7 @@ func maxHeapify(heap Heap, i int) {
 }
 
 func buildMaxHeap(heap Heap) {
-	for i := heap.arrSize - 1; i >= 0; i-- {
+	for i := heap.arrSize / 2; i >= 0; i-- {
 		maxHeapify(heap, i)
 	}
 }
