@@ -17,23 +17,18 @@ func mergeSort(arr []int) []int {
 
 	var merged []int
 
-	for k := 0; k < size; k++ {
-		if i == lSize {
-			merged = append(merged, rArr[j])
-			j++
-		} else if j == rSize {
+	for i < lSize && j < rSize {
+		if lArr[i] <= rArr[j] {
 			merged = append(merged, lArr[i])
 			i++
 		} else {
-			if lArr[i] <= rArr[j] {
-				merged = append(merged, lArr[i])
-				i++
-			} else {
-				merged = append(merged, rArr[j])
-				j++
-			}
+			merged = append(merged, rArr[j])
+			j++
 		}
 	}
+
+	merged = append(merged, lArr[i:]...)
+	merged = append(merged, rArr[j:]...)
 
 	return merged
 }
