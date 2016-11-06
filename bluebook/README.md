@@ -20,7 +20,7 @@ Bookmark앱, Blog앱, Photo앱을 직접 따라하면서 실제로 앱을 만드
 
 * 이수진(Sujin Lee) : https://github.com/sujinleeme / sujinlee.me@gmail.com
 * 조한주(Hanju Jo) : https://github.com/AWEEKJ
-* Onur Sahil(오누르 사힐) : https://github.com/onursahil / email: onursahilme@gmail.com
+* Onur Sahil(오누르 사힐) : https://github.com/onursahil / onursahilme@gmail.com
 * 유성(Sung Yu) : https://github.com/Hobbit-Klaus
 * 하지윤(Jiyoon Ha) : https://github.com/punkyoon
 * 홍미선(Miseon Hong) : https://github.com/cosmosinu / cosmosinu2016@gmail.com
