@@ -1,3 +1,23 @@
+# Dec (?) Tasks
+
+### Assignments
+
+### Minimum Spanning Tree (MST)
+Member : 조한주
+- Prim
+- Kruskal
+
+### Shortest Path
+Member : 유성
+- Dijkstra
+- Floyd Warshall
+
+### Deep Learning : Tensor Flow intro 
+Member : 권민재
+
+## Any ML Topic
+Member : Jin Park
+
 # November 27 Tasks
 ### Assignment
 ---------
