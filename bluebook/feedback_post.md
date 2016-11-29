@@ -3,7 +3,7 @@
 * 장고걸스 미디엄에 후기 글을 작성해 주세요.
 
 1. medium을 가입하고, 스터디 그룹 리더에게 미디엄계정을 알려주시면 editor로 등록합니다.
-2. 글 작성 후, Publish버튼을 누르고 글 배포 합니다.
+2. 글 작성 후, Publish버튼을 누르고 add to publication을 클릭하여 djangogirls seoul을 추가한 후 글 배포 합니다.
 ![alt tag](https://github.com/DjangoGirlsSeoul/studygroup_2016/blob/master/bluebook/publish.png)
 
 
